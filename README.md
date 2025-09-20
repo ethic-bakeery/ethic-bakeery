@@ -2,7 +2,7 @@
 # 👋 Welcome to my GitHub!
 
 ### About Me
-I’m **Abubakar Usman**, a Cybersecurity student and Security Analyst passionate about SOC operations, threat hunting, and digital forensics.  
+I’m **bakeery**, a Cybersecurity student and Security Analyst passionate about SOC operations, threat hunting, and digital forensics.  
 I build and contribute to tools that strengthen detection, response, and automation in cybersecurity.  
 
 👉 You can read more about me in my [Portfolio & Blog](https://bakeery-portfolio.vercel.app/) where I share my write-ups and projects.  
