@@ -1,7 +1,4 @@
-
-# 👋 Welcome to my GitHub!
-
-### About Me
+## About Me
 I’m **bakeery**, a Cybersecurity student and Security Analyst passionate about SOC operations, threat hunting, and digital forensics.  
 I build and contribute to tools that strengthen detection, response, and automation in cybersecurity.  
 
@@ -9,24 +6,16 @@ I build and contribute to tools that strengthen detection, response, and automat
 
 ---
 
-### 🔭 I’m currently working on
-- [**Anomix**](https://github.com/ethic-bakeery/anomix) – Advanced Phishing Email Analyzer  
-- [**SOCer Toolkit**](https://github.com/ethic-bakeery/SOCer-Toolkit) – SOC Automation Toolkit  
-- [**Linux & Windows CIS Benchmark Compliance Auditor**](https://github.com/ethic-bakeery/linux-audit-script) – Security Benchmark Auditor  
-
+###  I’m currently working on 
+- [**Digital Forensics and Threat Hunting Handbook**](https://github.com/ethic-bakeery/DFI-TH-Handbook)  
 ---
 
 ### 🛠 Some of my tools
-- [**time-decode**](https://github.com/ethic-bakeery/time-decode) – Python3 timestamp encode/decode tool  
-- [**pyson4**](https://github.com/ethic-bakeery/pyson4) – Python3 analysis tool for Firefox `.jsonlz4` files  
-- [**Registry-Write-Block**](https://github.com/ethic-bakeery/Registry-Write-Block) – Registry-based USB/UAS Write Blocker for Windows  
-- Various [**digital forensics tools & scripts**](https://github.com/ethic-bakeery?tab=repositories)  
-
----
-
-### 🤝 Contributions
-- **REMnux** – Reverse Engineering Malware on Linux  
-- **SIFT** – SANS Investigative Forensics Toolkit  
+- [**Anomix**](https://github.com/ethic-bakeery/anomix) – Advanced Phishing Email Analyzer
+- [**NURA Web Application**](https://github.com/ethic-bakeery/NURAwebapp) - NURA Platform unites Nigerians for justice and empowerment through a digital civic hub.
+- [**SOCer Toolkit**](https://github.com/ethic-bakeery/SOCer-Toolkit) – SOC Automation Toolkit  
+- [**Linux & Windows CIS Benchmark Compliance Auditor**](https://github.com/ethic-bakeery/linux-audit-script) – Security Benchmark Auditor
+- [**Active Connection Viewer**](https://github.com/ethic-bakeery/active-connections-viewer) - A Python-based GUI tool to monitor active network connections, perform IP lookups, and export logs. 
 
 ---
 
