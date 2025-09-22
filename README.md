@@ -27,7 +27,8 @@ I enjoy building and contributing to tools that **strengthen detection, response
 ---
 
 ## 🛠 Tools I’ve Built  
-- 🔎 [**Anomix**](https://github.com/ethic-bakeery/anomix) – Advanced Phishing Email Analyzer  
+- 🔎 [**Anomix**](https://github.com/ethic-bakeery/anomix) – Advanced Phishing Email Analyzer
+- 🔎 [**Sqlite Exporter**](https://github.com/ethic-bakeery/sqlite-forensic-exporter) - Python tool for extracting and exporting data from SQLite databases with forensic analysis capabilities
 - 🌍 [**NURA Web Application**](https://github.com/ethic-bakeery/NURAwebapp) – Civic Tech Platform empowering Nigerians  
 - ⚡ [**SOCer Toolkit**](https://github.com/ethic-bakeery/SOCer-Toolkit) – SOC Automation Toolkit  
 - 🛡️ [**CIS Benchmark Auditor**](https://github.com/ethic-bakeery/linux-audit-script) – Linux & Windows Compliance Auditor  
