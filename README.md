@@ -22,7 +22,7 @@ I enjoy building and contributing to tools that **strengthen detection, response
 ---
 
 ## 📖 Currently Working On  
-📘 [**Digital Forensics and Threat Hunting Handbook**](https://github.com/ethic-bakeery/DFI-TH-Handbook)  
+📘 [**DFIR and Incident Response Handboo**](https://github.com/ethic-bakeery/Desktop-DFIR-and-Incident-Response-Handbook)  
 
 ---
 
