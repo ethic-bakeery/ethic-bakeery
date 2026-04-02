@@ -20,15 +20,15 @@ I enjoy building and contributing to tools that **strengthen detection, response
 👉 Learn more about me in my [**Portfolio & Blog**](https://bakeery-portfolio.vercel.app/) where I share detailed write-ups and projects.  
 
 ---
-
+<!--
 ## 📖 Currently Working On  
 📘 [**DFIR and Incident Response Handboo**](https://github.com/ethic-bakeery/Desktop-DFIR-and-Incident-Response-Handbook)  
-
+-->
 ---
 
 ## 🛠 Tools I’ve Built  
 - 🔎 [**Anomix**](https://github.com/ethic-bakeery/anomix) – Advanced Phishing Email Analyzer
-- 🔎 [**Sqlite Exporter**](https://github.com/ethic-bakeery/sqlite-forensic-exporter) - Python tool for extracting and exporting data from SQLite databases with forensic analysis capabilities
+- 🔎 [**Browser Forensic Explorer**](https://github.com/ethic-bakeery/bfx/) - A command-line tool that turns raw browser databases into something a human can actually read and investigate.
 - 🌍 [**NURA Web Application**](https://github.com/ethic-bakeery/NURAwebapp) – Civic Tech Platform empowering Nigerians  
 - ⚡ [**SOCer Toolkit**](https://github.com/ethic-bakeery/SOCer-Toolkit) – SOC Automation Toolkit  
 - 🛡️ [**CIS Benchmark Auditor**](https://github.com/ethic-bakeery/linux-audit-script) – Linux & Windows Compliance Auditor  
