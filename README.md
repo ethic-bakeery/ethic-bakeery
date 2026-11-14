@@ -17,7 +17,7 @@ I’m **bakeery**, a passionate **Cybersecurity Student** and **Security Analyst
 
 I enjoy building and contributing to tools that **strengthen detection, response, and automation** in cybersecurity.  
 
- Learn more about me in my [**Portfolio & Blog**](https://bakeery-portfolio.vercel.app/) where I share detailed write-ups and projects.  
+ Learn more about me in my [**Portfolio & Blog**](https://bakeery.me/) where I share detailed write-ups and projects.  
 
 ---
 <!--
